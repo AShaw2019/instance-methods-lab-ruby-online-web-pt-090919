@@ -7,6 +7,7 @@ end
 dave = Person.new 
 dave.talk
 
+class Person
 def walk
   puts "The Person is Walking."
 end
