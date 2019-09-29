@@ -9,7 +9,7 @@ dave.talk
 
 class Person
 def walk
-  puts "The Person is Walking."
+  puts "The Person is Walking"
 end
 end
 
