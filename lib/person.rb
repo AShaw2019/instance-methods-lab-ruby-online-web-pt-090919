@@ -6,3 +6,11 @@ end
 
 dave = Person.new 
 dave.talk
+
+def walk
+  puts "The Person is Walking."
+end
+end
+
+dave = Person.new 
+dave.walk
