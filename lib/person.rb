@@ -5,3 +5,4 @@ class Person
 end
 
 dave = Person.new 
+dave.talk
