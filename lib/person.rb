@@ -4,4 +4,4 @@ class Person
   end  
 end
 
-Dave
+dave = Person.new 
